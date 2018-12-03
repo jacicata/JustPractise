@@ -1,2 +1,2 @@
 # JustPractise
-Some demos.Just for learning.
+This is a simple demo for ftpserver
